@@ -153,4 +153,4 @@ The **SageBook** is an interactive cooking and baking assistant designed to guid
 - **Community Notes:** Offers a space for users to view or contribute notes and tips for each recipe.  
 
 ### Prototype Link  
-[Cooking Companion App Prototype]([https://www.figma.com/proto/uHi2kRUlatW4vGDMtvpI1p/SageBook---A-Cooking-Experience?node-id=0-1&t=7djCgA7dzl55kQEj-1](https://sagebook.figma.site/)) 
+[Cooking Companion App Prototype](https://sagebook.figma.site/) 
